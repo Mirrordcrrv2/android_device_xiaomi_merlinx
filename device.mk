@@ -71,3 +71,6 @@ PRODUCT_COPY_FILES += \
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/merlinx/merlinx-vendor.mk)
+
+# MindTheGapps
+include vendor/gapps/arm64/arm64-vendor.mk
