@@ -74,4 +74,4 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, vendor/xiaomi/merlinx/merlinx-vendor.mk)
 
 # MindTheGapps
-include vendor/gapps/arm64/arm64-vendor.mk
+# include vendor/gapps/arm64/arm64-vendor.mk
