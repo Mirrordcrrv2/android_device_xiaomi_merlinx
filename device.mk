@@ -46,7 +46,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     FrameworksResOverlayMerlinx \
-    SettingsOverlayMerlinx \
     SystemUIOverlayMerlinx
 
 # Rootdir
